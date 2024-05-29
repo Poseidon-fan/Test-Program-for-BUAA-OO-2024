@@ -1,0 +1,2 @@
+C:\Users\86186\Desktop\OO\第五次作业评测机\Release\judge.exe
+C:\Users\86186\Desktop\OO\第五次作业评测机\逆向生成器\Release\judge.exe

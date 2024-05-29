@@ -1,0 +1,7 @@
+﻿  Factor.cpp
+C:\Users\86186\Desktop\OO\第一次评测机\evaluation_machine_for_hw1\Factor.cpp(45,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Term.cpp
+C:\Users\86186\Desktop\OO\第一次评测机\evaluation_machine_for_hw1\Term.cpp(20,30): error C2027: 使用了未定义类型“Factor”
+C:\Users\86186\Desktop\OO\第一次评测机\evaluation_machine_for_hw1\Term.h(7): message : 参见“Factor”的声明
+C:\Users\86186\Desktop\OO\第一次评测机\evaluation_machine_for_hw1\Term.cpp(20,39): error C3861: “getFactor”: 找不到标识符
+  正在生成代码...

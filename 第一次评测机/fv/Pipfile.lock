@@ -1,0 +1,133 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "576a2da9b6ea760f7c906fded101683c3f04bc46cb82690111b06e1e19051262"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pip_conf_index_global",
+                "url": "https://pypi.tuna.tsinghua.edu.cn/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "altgraph": {
+            "hashes": [
+                "sha256:1b5afbb98f6c4dcadb2e2ae6ab9fa994bbb8c1d75f4fa96d340f9437ae454406",
+                "sha256:642743b4750de17e655e6711601b077bc6598dbfa3ba5fa2b2a35ce12b508dff"
+            ],
+            "version": "==0.17.4"
+        },
+        "colorama": {
+            "hashes": [
+                "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44",
+                "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6"
+            ],
+            "markers": "platform_system == 'Windows'",
+            "version": "==0.4.6"
+        },
+        "importlib-metadata": {
+            "hashes": [
+                "sha256:4805911c3a4ec7c3966410053e9ec6a1fecd629117df5adee56dfc9432a1081e",
+                "sha256:f238736bb06590ae52ac1fab06a3a9ef1d8dce2b7a35b5ab329371d6c8f5d2cc"
+            ],
+            "markers": "python_version < '3.10'",
+            "version": "==7.0.1"
+        },
+        "mpmath": {
+            "hashes": [
+                "sha256:7a28eb2a9774d00c7bc92411c19a89209d5da7c4c9a9e227be8330a23a25b91f",
+                "sha256:a0b2b9fe80bbcd81a6647ff13108738cfb482d481d826cc0e02f5b35e5c88d2c"
+            ],
+            "version": "==1.3.0"
+        },
+        "packaging": {
+            "hashes": [
+                "sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5",
+                "sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==23.2"
+        },
+        "pefile": {
+            "hashes": [
+                "sha256:82e6114004b3d6911c77c3953e3838654b04511b8b66e8583db70c65998017dc",
+                "sha256:da185cd2af68c08a6cd4481f7325ed600a88f6a813bad9dea07ab3ef73d8d8d6"
+            ],
+            "markers": "sys_platform == 'win32'",
+            "version": "==2023.2.7"
+        },
+        "pyinstaller": {
+            "hashes": [
+                "sha256:11e6da6a6e441379352ee460a8880f2633dac91dac0f5a9eeff5d449d459b046",
+                "sha256:1bf608ed947b58614711275a7ff169289b32560dc97ec748ebd5fa8bdec80649",
+                "sha256:28b98fa3c74602bdc4c5a7698e907f31e714cc40a13f6358082bcbc74ddab35c",
+                "sha256:3127724d1841f785a9916d7b4cfd9595f359925e9ce7d137a16db8c29ca8453b",
+                "sha256:3ae62cf8858ec4dc54df6fa03d29bc78297e3c87caf532887eae8c3893be0789",
+                "sha256:78fb66ca753ef8becdf059eaa1e764d384cacb8c2ec76800126f8c9ef6d19a50",
+                "sha256:a2e63fa71784f290bbf79b31b60a27c45b17a18b8c7f910757f9474e0c12c95d",
+                "sha256:a37f83850cb150ad1e00fe92acecc4d39b8e10162a1850a5836a05fcb2daa870",
+                "sha256:c7bc0fbea8a9010484cfa7d3856416003af73271f03ca3da4bc0eaf14680ad17",
+                "sha256:e07cff584600647af7dc279dd04c60cd1b4b1b41947b0753f8fcf1969300a583",
+                "sha256:e3e1e6922a4260dcacf6f5655b0ca857451e05ac502d01642935d0f2873ad3c7",
+                "sha256:ec8a08c983e3febb0247893cd9bd59f55b6767a1f649cb41a0a129b8f04ff2cb"
+            ],
+            "index": "pip_conf_index_global",
+            "version": "==6.4.0"
+        },
+        "pyinstaller-hooks-contrib": {
+            "hashes": [
+                "sha256:43f3e084ae5f826415399d72ecf2e32328fe859ad7455c7cddfc09f1a61c90b7",
+                "sha256:8f5ac1acdafde9e553c82242aeae2d2f8fb65ec8e2b0ba416547948108a73e01"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==2024.2"
+        },
+        "pywin32-ctypes": {
+            "hashes": [
+                "sha256:3426e063bdd5fd4df74a14fa3cf80a0b42845a87e1d1e81f6549f9daec593a60",
+                "sha256:bf490a1a709baf35d688fe0ecf980ed4de11d2b3e37b51e5442587a75d9957e7"
+            ],
+            "markers": "sys_platform == 'win32'",
+            "version": "==0.2.2"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:02fa291a0471b3a18b2b2481ed902af520c69e8ae0919c13da936542754b4c56",
+                "sha256:5c0806c7d9af348e6dd3777b4f4dbb42c7ad85b190104837488eab9a7c945cf8"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==69.1.1"
+        },
+        "sympy": {
+            "hashes": [
+                "sha256:c3588cd4295d0c0f603d0f2ae780587e64e2efeedb3521e46b9bb1d08d184fa5",
+                "sha256:ebf595c8dac3e0fdc4152c51878b498396ec7f30e7a914d6071e674d49420fb8"
+            ],
+            "index": "pip_conf_index_global",
+            "version": "==1.12"
+        },
+        "tqdm": {
+            "hashes": [
+                "sha256:1ee4f8a893eb9bef51c6e35730cebf234d5d0b6bd112b0271e10ed7c24a02bd9",
+                "sha256:6cd52cdf0fef0e0f543299cfc96fec90d7b8a7e88745f411ec33eb44d5ed3531"
+            ],
+            "index": "pip_conf_index_global",
+            "version": "==4.66.2"
+        },
+        "zipp": {
+            "hashes": [
+                "sha256:0e923e726174922dce09c53c59ad483ff7bbb8e572e00c7f7c46b88556409f31",
+                "sha256:84e64a1c28cf7e91ed2078bb8cc8c259cb19b76942096c8d7b84947690cabaf0"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==3.17.0"
+        }
+    },
+    "develop": {}
+}
